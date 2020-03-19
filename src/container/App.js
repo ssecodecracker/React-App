@@ -10,7 +10,7 @@ function App() {
       <div className="container-fluid">
           <IndexPage></IndexPage>
       </div>
-      <footer><i>&copy; 2020. Publicis Sapient.</i></footer>
+      <footer></footer>
     </div>
   );
 }
