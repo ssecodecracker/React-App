@@ -1,4 +1,4 @@
-`This app is crated using Create-React-App hence webpack specific configurations are not allowed to overridden.`
+`This app is created using Create-React-App hence webpack specific configurations are not allowed to overridden.`
 
 
 ### `npm install`
